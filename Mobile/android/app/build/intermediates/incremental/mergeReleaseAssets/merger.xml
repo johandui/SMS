@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":react-native-sms-x"><source path="/Users/fr0wnnn/Documents/sms/node_modules/react-native-sms-x/android/app/build/intermediates/packagedAssets/release"/></dataSet><dataSet config="main"><source path="/Users/fr0wnnn/Documents/sms/android/app/src/main/assets"/><source path="/Users/fr0wnnn/Documents/sms/android/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/fr0wnnn/Documents/sms/android/app/src/release/assets"/></dataSet></merger>

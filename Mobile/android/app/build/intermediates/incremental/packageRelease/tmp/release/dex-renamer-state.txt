@@ -1,0 +1,4 @@
+#Mon Nov 19 12:59:59 ULAT 2018
+base.0=/Users/fr0wnnn/Documents/sms/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
